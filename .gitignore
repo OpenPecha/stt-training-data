@@ -132,3 +132,5 @@ dmypy.json
 data/
 #DS_STORE
 .DS_STORE
+#test
+tests/
